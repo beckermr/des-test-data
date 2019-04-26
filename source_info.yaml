@@ -16,3 +16,7 @@ weight_ext: 'wgt'
 bmask_ext: 'msk'
 bkg_ext: 'sci'
 seg_ext: 'sci'
+
+# extra paths
+weight_path: y3v02/DES2122+0001/sources-i/OPS/finalcut/Y2A1/Y1-2357/20130909/D00232321/p01/red/immask/D00232321_i_c55_r2357p01_immasked.fits.fz
+bmask_path: y3v02/DES2122+0001/sources-i/OPS/finalcut/Y2A1/Y1-2357/20130909/D00232321/p01/red/immask/D00232321_i_c55_r2357p01_immasked.fits.fz

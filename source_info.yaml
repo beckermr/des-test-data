@@ -1,0 +1,18 @@
+band: i
+bkg_path: y3v02/DES2122+0001/sources-i/OPS/finalcut/Y2A1/Y1-2357/20130909/D00232321/p01/red/bkg/D00232321_i_c55_r2357p01_bkg.fits.fz
+compression: .fz
+filename: D00232321_i_c55_r2357p01_immasked.fits
+image_path: y3v02/DES2122+0001/sources-i/OPS/finalcut/Y2A1/Y1-2357/20130909/D00232321/p01/red/immask/D00232321_i_c55_r2357p01_immasked.fits.fz
+magzp: 31.631345748901367
+path: OPS/finalcut/Y2A1/Y1-2357/20130909/D00232321/p01/red/immask
+pfw_attempt_id: 578408
+psf_path: y3v02/DES2122+0001/sources-i/OPS/finalcut/Y2A1/Y1-2357/20130909/D00232321/p01/psf/D00232321_i_c55_r2357p01_psfexcat.psf
+seg_path: y3v02/DES2122+0001/sources-i/OPS/finalcut/Y2A1/Y1-2357/20130909/D00232321/p01/seg/D00232321_i_c55_r2357p01_segmap.fits.fz
+tilename: DES2122+0001
+
+# the extensions of the data in the file paths above for easy use
+image_ext: 'sci'
+weight_ext: 'wgt'
+bmask_ext: 'msk'
+bkg_ext: 'sci'
+seg_ext: 'sci'

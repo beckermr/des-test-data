@@ -3,7 +3,7 @@ bkg_path: y3v02/DES2122+0001/sources-i/OPS/finalcut/Y2A1/Y1-2357/20130909/D00232
 compression: .fz
 filename: D00232321_i_c55_r2357p01_immasked.fits
 image_path: y3v02/DES2122+0001/sources-i/OPS/finalcut/Y2A1/Y1-2357/20130909/D00232321/p01/red/immask/D00232321_i_c55_r2357p01_immasked.fits.fz
-expnum: 00232321
+expnum: 232321
 ccdnum: 55
 magzp: 31.631345748901367
 path: OPS/finalcut/Y2A1/Y1-2357/20130909/D00232321/p01/red/immask

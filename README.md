@@ -1,5 +1,5 @@
-# des-y3-test-data
-a single Y3 single epoch image for use in CI testing
+# des-test-data
+a single epoch image for use in CI testing
 
 It is located at
 

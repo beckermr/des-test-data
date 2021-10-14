@@ -1,27 +1,38 @@
-band: i
-bkg_path: y3v02/DES2122+0001/sources-i/OPS/finalcut/Y2A1/Y1-2357/20130909/D00232321/p01/red/bkg/D00232321_i_c55_r2357p01_bkg.fits.fz
+band: z
+bkg_ext: sci
+bkg_path: des-pizza-slices-y6-test/DES2041-5248/sources-z/OPS/finalcut/Y5A1/r3624/20160908/D00572501/p01/red/bkg/D00572501_z_c01_r3624p01_bkg.fits.fz
+bmask_ext: msk
+bmask_path: des-pizza-slices-y6-test/DES2041-5248/sources-z/OPS/finalcut/Y5A1/r3624/20160908/D00572501/p01/red/immask/D00572501_z_c01_r3624p01_immasked.fits.fz
+ccdnum: 1
 compression: .fz
-filename: D00232321_i_c55_r2357p01_immasked.fits
-image_path: y3v02/DES2122+0001/sources-i/OPS/finalcut/Y2A1/Y1-2357/20130909/D00232321/p01/red/immask/D00232321_i_c55_r2357p01_immasked.fits.fz
-expnum: 232321
-ccdnum: 55
-magzp: 31.631345748901367
-path: OPS/finalcut/Y2A1/Y1-2357/20130909/D00232321/p01/red/immask
-pfw_attempt_id: 578408
-psf_path: y3v02/DES2122+0001/sources-i/OPS/finalcut/Y2A1/Y1-2357/20130909/D00232321/p01/psf/D00232321_i_c55_r2357p01_psfexcat.psf
-seg_path: y3v02/DES2122+0001/sources-i/OPS/finalcut/Y2A1/Y1-2357/20130909/D00232321/p01/seg/D00232321_i_c55_r2357p01_segmap.fits.fz
-tilename: DES2122+0001
-
-# the extensions of the data in the file paths above for easy use
-image_ext: 'sci'
-weight_ext: 'wgt'
-bmask_ext: 'msk'
-bkg_ext: 'sci'
-seg_ext: 'sci'
-
-# extra paths
-weight_path: y3v02/DES2122+0001/sources-i/OPS/finalcut/Y2A1/Y1-2357/20130909/D00232321/p01/red/immask/D00232321_i_c55_r2357p01_immasked.fits.fz
-bmask_path: y3v02/DES2122+0001/sources-i/OPS/finalcut/Y2A1/Y1-2357/20130909/D00232321/p01/red/immask/D00232321_i_c55_r2357p01_immasked.fits.fz
-
-# relative to PIFF_DATA_DIR
-piff_path: y3a1-v29/232321/D00232321_i_c55_r2357p01_piff.fits
+expnum: 572501
+filename: D00572501_z_c01_r3624p01_immasked.fits
+head_path: des-pizza-slices-y6-test/DES2041-5248/sources-z/OPS/multiepoch/Y6A1/r4575/DES2041-5248/p02/aux/DES2041-5248_r4575p02_D00572501_z_c01_scamp.ohead
+image_ext: sci
+image_flags: 0
+image_path: des-pizza-slices-y6-test/DES2041-5248/sources-z/OPS/finalcut/Y5A1/r3624/20160908/D00572501/p01/red/immask/D00572501_z_c01_r3624p01_immasked.fits.fz
+image_shape:
+- 4096
+- 2048
+magzp: 31.269437789916992
+path: OPS/finalcut/Y5A1/r3624/20160908/D00572501/p01/red/immask
+pfw_attempt_id: 2738800
+piff_info:
+  ccdnum: 1
+  desdm_flags: 0
+  exp_star_t_mean: 0.3655323386192322
+  exp_star_t_std: 0.021738024428486824
+  expnum: 572501
+  fwhm_cen: 1.017941951751709
+  nstar: 244
+  star_t_mean: 0.3787354826927185
+  star_t_std: 0.012070641852915287
+piff_path: des-pizza-slices-y6-test/DES2041-5248/sources-z/ACT/finalcut/Y6A2_PIFF/20160908-r5473/D00572501/p01/psf/D00572501_z_c01_r5473p01_piff-model.fits
+position_offset: 1
+psf_path: des-pizza-slices-y6-test/DES2041-5248/sources-z/OPS/finalcut/Y5A1/r3624/20160908/D00572501/p01/psf/D00572501_z_c01_r3624p01_psfexcat.psf
+psfex_path: des-pizza-slices-y6-test/DES2041-5248/sources-z/OPS/finalcut/Y5A1/r3624/20160908/D00572501/p01/psf/D00572501_z_c01_r3624p01_psfexcat.psf
+scale: 0.3106167590767239
+seg_path: des-pizza-slices-y6-test/DES2041-5248/sources-z/OPS/finalcut/Y5A1/r3624/20160908/D00572501/p01/seg/D00572501_z_c01_r3624p01_segmap.fits.fz
+tilename: DES2041-5248
+weight_ext: wgt
+weight_path: des-pizza-slices-y6-test/DES2041-5248/sources-z/OPS/finalcut/Y5A1/r3624/20160908/D00572501/p01/red/immask/D00572501_z_c01_r3624p01_immasked.fits.fz

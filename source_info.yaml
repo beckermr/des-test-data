@@ -11,9 +11,6 @@ head_path: des-pizza-slices-y6-test/DES2041-5248/sources-z/OPS/multiepoch/Y6A1/r
 image_ext: sci
 image_flags: 0
 image_path: des-pizza-slices-y6-test/DES2041-5248/sources-z/OPS/finalcut/Y5A1/r3624/20160908/D00572501/p01/red/immask/D00572501_z_c01_r3624p01_immasked.fits.fz
-image_shape:
-- 4096
-- 2048
 magzp: 31.269437789916992
 path: OPS/finalcut/Y5A1/r3624/20160908/D00572501/p01/red/immask
 pfw_attempt_id: 2738800

@@ -33,3 +33,5 @@ seg_path: des-pizza-slices-y6-test/DES2041-5248/sources-z/OPS/finalcut/Y5A1/r362
 tilename: DES2041-5248
 weight_ext: wgt
 weight_path: des-pizza-slices-y6-test/DES2041-5248/sources-z/OPS/finalcut/Y5A1/r3624/20160908/D00572501/p01/red/immask/D00572501_z_c01_r3624p01_immasked.fits.fz
+piff_hsmcat_path: des-pizza-slices-y6-test/DES2041-5248/sources-z/ACT/finalcut/Y6A2_PIFF/20160908-r5473/D00572501/p01/psf/D00572501_z_c01_r5473p01_piff-hsmcat.fits
+piff_cat_path: des-pizza-slices-y6-test/DES2041-5248/sources-z/ACT/finalcut/Y6A2_PIFF/20160908-r5473/D00572501/p01/cat/D00572501_z_c01_r5473p01_piff.fits

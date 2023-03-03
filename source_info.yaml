@@ -3,6 +3,7 @@ bkg_ext: sci
 bkg_path: des-pizza-slices-y6-test/DES2041-5248/sources-z/OPS/finalcut/Y5A1/r3624/20160908/D00572501/p01/red/bkg/D00572501_z_c01_r3624p01_bkg.fits.fz
 bmask_ext: msk
 bmask_path: des-pizza-slices-y6-test/DES2041-5248/sources-z/OPS/finalcut/Y5A1/r3624/20160908/D00572501/p01/red/immask/D00572501_z_c01_r3624p01_immasked.fits.fz
+cat_path: des-pizza-slices-y6-test/DES2041-5248/sources-z/OPS/finalcut/Y5A1/r3624/20160908/D00572501/p01/cat/D00572501_z_c01_r3624p01_red-fullcat.fits
 ccdnum: 1
 compression: .fz
 expnum: 572501
